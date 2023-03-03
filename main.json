@@ -6245,5 +6245,13 @@
       "verticalPadding": "{button.app-tile.border-offset-top}"
     },
     "type": "composition"
+  },
+  "test composition 2": {
+    "value": {
+      "height": "{button.air-distribution.height}",
+      "backgroundBlur": "20",
+      "typography": "{button.app-tile.typography}"
+    },
+    "type": "composition"
   }
 }
