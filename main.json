@@ -6237,5 +6237,13 @@
       "value": "False",
       "type": "visible"
     }
+  },
+  "Test composition": {
+    "value": {
+      "sizing": "{button.air-distribution.height}",
+      "fill": "{button.accept.border.enabled}",
+      "verticalPadding": "{button.app-tile.border-offset-top}"
+    },
+    "type": "composition"
   }
 }
